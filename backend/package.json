@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "ahuja",
+  "main": "index.js",
+  "type":"module",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "udit",
+  "license": "ISC"
+}
